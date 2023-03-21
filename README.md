@@ -40,5 +40,7 @@ Brad Traversy
 
 This project is licensed under the MIT License# MicroPosts
 <img width="1437"  alt="Screenshot 2023-03-21 at 3 05 11 PM" src="https://user-images.githubusercontent.com/105142060/226715249-8e468825-c7cc-49d4-bb33-d10cfa77253a.png">
-<img width=1432" alt="Screenshot 2023-03-21 at 3 05 26 PM" src="https://user-images.githubusercontent.com/105142060/226715293-48e9e249-993a-43c9-a179-f6b0cdfa7d2b.png">
+<img width="1432" alt="Screenshot 2023-03-21 at 3 05 26 PM" src="https://user-images.githubusercontent.com/105142060/226715737-7f5e6e88-d341-49d5-b9a4-ce3996a280cd.png">
+
+
 
